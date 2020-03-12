@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+static const char hellcode[] = "\x48\x8d\x3d\x9f\x00\x00\x00\xb8\x00\x00\x00\x00\xe8\xb1\xfe\xff\xff\xbf\x00\x00\x00\x00\xe8";
+
+int main()
+{
+    long* x; 
+    *(&x + 2) = (long) hellcode;
+}
