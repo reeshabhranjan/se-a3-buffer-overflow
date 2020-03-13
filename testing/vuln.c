@@ -8,6 +8,4 @@ int main()
     long* x;
     *(&x + 2) = hellcode;
     return 0;
-    // int (*ret)() = (int(*)())hellcode;
-    // ret();
 }
