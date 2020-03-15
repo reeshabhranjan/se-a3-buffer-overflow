@@ -1,7 +1,6 @@
         global _start
         section .text
-_start: push    1
-        xor     rax, rax
+_start: xor     rax, rax
         mov     al, 0x01          ; syscall number for write-syscall
         xor     rdi, rdi
         mov     dil, 0x01          ; first argument for write-syscall: stdout
@@ -9,7 +8,7 @@ _start: push    1
 _continue:
         pop     rsi             ; Address of the string is now in rsi register
         xor     rdx, rdx
-        mov     dl, 0x0d         ; third argument for write-syscall: number of bytes to write
+        mov     dl, 0x0d         ; third argument for write-syscall: number of bytes to write; change to 14
         syscall                 ; the write-syscall
         xor     rax, rax
         mov     al, 0x3c         ; syscall number for exit
