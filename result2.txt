@@ -1,0 +1,2 @@
+Hello world! Hello world! Hello world! Hello world! Hello world! exploit.sh: line 20: 22521 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+Hello world! Hello world! exploit.sh: line 20: 22528 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
