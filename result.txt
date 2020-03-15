@@ -1,0 +1,26 @@
+exploit.sh: line 19:  5231 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5234 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5237 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5240 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5243 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5246 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5249 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5252 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5255 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5258 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5261 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5264 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+Hello world! exploit.sh: line 19:  5269 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+Hello world! Hello world! exploit.sh: line 19:  5276 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+Hello world! exploit.sh: line 19:  5281 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5288 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5307 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5312 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5323 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5334 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5339 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5344 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5347 Illegal instruction     (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5350 Illegal instruction     (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5353 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
+exploit.sh: line 19:  5356 Segmentation fault      (core dumped) ./victimbinary_24205 < attack.txt
