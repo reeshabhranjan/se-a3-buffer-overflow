@@ -17,4 +17,4 @@ _continue:
         syscall                 ; the exit-syscall
 _trick:
         call _continue
-        db      "-TheLaw-", 0x20 ; why are three "!"s not working?
+        db      "Hello world!", 0x20 ; why are three "!"s not working?

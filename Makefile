@@ -11,3 +11,6 @@ vuln:
 
 clean:
 	rm a.out hello hello.o hellcode hello payload vuln
+
+attack:
+	bash attack_complete.sh > attack.txt
