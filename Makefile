@@ -7,7 +7,7 @@ hex:
 	objdump --disassemble hello
 
 vuln:
-	gcc -o vuln -fno-stack-protector -z execstack vuln.c
+	gcc -g -o vuln -fno-stack-protector -z execstack vuln.c
 
 clean:
-	rm a.out hello hello.o hellcode hello payload
+	rm a.out hello hello.o hellcode hello payload vuln
